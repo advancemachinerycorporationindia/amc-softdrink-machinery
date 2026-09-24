@@ -1,8 +1,9 @@
 # amc-softdrink-machinery
 Information and resources about soft drink and carbonated beverage machinery, carbonation, filling, capping and beverage manufacturing.
 
-<img width="1200" height="628" alt="carbonated-drink-fizz" src="[https://github.com/advancemachinerycorporationindia/amc-softdrink-machinery/blob/fb9b4c0606478d7ad14ac9c4695fdf80f971813f/images/carbonated-drink-fizz.jpg]" />
+![Modern PET and Glass bottle soft drink manufacturing line with filling, capping, labeling, and packaging machines](../images/carbonated-drink-fizz.jpg)
 
+beverage-manufacturing.jpg.jpeg
 # Carbonated Beverage Manufacturing and Soft Drink Machinery
 
 A practical resource exploring the ingredients, carbonation process and manufacturing considerations behind carbonated beverages, including soft drinks, soda and sparkling beverages.
