@@ -16,11 +16,11 @@ A carbonated drink is a carefully formulated combination of water, dissolved car
 
 ## The Role of Carbon Dioxide in Carbonated Drinks
 
-Carbon dioxide (CO₂) is what gives a carbonated beverage its characteristic fizz. During carbonation, CO₂ is dissolved into the liquid under controlled pressure.
+Carbon dioxide (CO₂) is what gives a carbonated beverage its characteristic fizz. During [carbonation](https://advancemachineryindia.com/blog/), CO₂ is dissolved into the liquid under controlled pressure.
 
 When the bottle or can is opened, the pressure inside the container drops. The dissolved gas begins to escape from the liquid, forming the bubbles we see.
 
-CO₂ also contributes to the distinctive sharp or tingling sensation associated with carbonated drinks. This makes carbonation more than a visual feature—it is an important part of the drinking experience.
+CO₂ also contributes to the distinctive sharp or tingling sensation associated with carbonated drinks. This makes carbonation more than a visual feature ,it is an important part of the drinking experience.
 
 ## Water Forms the Base of the Beverage
 
