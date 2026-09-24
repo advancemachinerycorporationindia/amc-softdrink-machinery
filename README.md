@@ -3,7 +3,6 @@ Information and resources about soft drink and carbonated beverage machinery, ca
 
 ![Modern PET and Glass bottle soft drink manufacturing line with filling, capping, labeling, and packaging machines](../images/carbonated-drink-fizz.jpg)
 
-beverage-manufacturing.jpg.jpeg
 # Carbonated Beverage Manufacturing and Soft Drink Machinery
 
 A practical resource exploring the ingredients, carbonation process and manufacturing considerations behind carbonated beverages, including soft drinks, soda and sparkling beverages.
