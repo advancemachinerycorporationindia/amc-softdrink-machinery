@@ -1,7 +1,7 @@
 # Goli Soda: From Traditional Bottle to Modern Beverage
 Goli Soda is a traditional Indian carbonated beverage recognised by its distinctive marble-sealed bottle.
 
-![Traditional Goli Soda bottles in different flavours](images/carbonated-drink-fizz.jpg)
+![Traditional Goli Soda bottles in different flavours](images/Goli-soda-blog-header.jpg)
 
 ## The Bottle That Made It Different
 The traditional **Codd-neck bottle** uses a glass marble and internal seal to retain carbonation. The bottle design dates back to the 19th century.
