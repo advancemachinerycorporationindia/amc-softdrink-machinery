@@ -15,4 +15,5 @@ Production
 Modern carbonated beverage production can involve:
 Water Treatment → Chilling → Carbonation → Bottle Rinsing → Filling → Capping
 The equipment required depends on the beverage, bottle type and production capacity.
-Further reading : [https://advancemachineryindia.com/how-did-goli-soda-make-a-comeback/]
+Further reading:
+[[Main Goli Soda article URL](https://advancemachineryindia.com/how-did-goli-soda-make-a-comeback/)]
