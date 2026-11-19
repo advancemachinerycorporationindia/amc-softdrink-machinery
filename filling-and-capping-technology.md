@@ -1,6 +1,6 @@
 # Filling and Capping Technology in Carbonated Beverage Manufacturing
 
-![Filling and Capping Technology](images/filling-and-capping-technology.jpg)
+![Filling and Capping Technology](images/Filling-and-Capping-Technology)
 
 In carbonated beverage manufacturing, product quality is determined by more than the ingredients or the amount of CO₂ added.
 
